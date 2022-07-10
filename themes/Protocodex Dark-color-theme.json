@@ -1826,7 +1826,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -1845,13 +1845,13 @@
     }
   ],
   "colors": {
-    "foreground": "#999999",
+    "foreground": "#ffffff",
     "focusBorder": "#00000000",
     "selection.background": "#35ad8d72",
     "scrollbar.shadow": "#00000000",
     "activityBar.foreground": "#35ad8d",
     "activityBar.background": "#000000",
-    "activityBar.inactiveForeground": "#555555",
+    "activityBar.inactiveForeground": "#000000",
     "activityBarBadge.foreground": "#000000",
     "activityBarBadge.background": "#35ad8d",
     "activityBar.border": "#54545400",
@@ -1881,10 +1881,10 @@
     "statusBar.background": "#000000",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.border": "#000000",
-    "statusBar.debuggingBackground": "#2c1414",
+    "statusBar.debuggingBackground": "#000000",
     "statusBar.debuggingForeground": "#999999",
     "statusBar.debuggingBorder": "#0a0a0a",
-    "statusBar.noFolderBackground": "#241528",
+    "statusBar.noFolderBackground": "#000000",
     "statusBar.noFolderForeground": "#999999",
     "statusBar.noFolderBorder": "#0a0a0a",
     "statusBarItem.remoteBackground": "#35ad8d",
@@ -1951,7 +1951,6 @@
     "editorBracketMatch.background": "#ff97281c",
     "editorBracketMatch.border": "#ff9077",
     "editor.foldBackground": "#2831564d",
-    "editorOverviewRuler.background": "#5e5e5e00",
     "editorOverviewRuler.border": "#c0afaf00",
     "editorError.foreground": "#ff4620",
     "editorError.background": "#7b444200",
@@ -2018,9 +2017,9 @@
     "tab.hoverBackground": "#111111",
     "tab.hoverForeground": "#ffffff",
     "tab.hoverBorder": "#00000000",
-    "scrollbarSlider.background": "#191919",
-    "scrollbarSlider.hoverBackground": "#191919",
-    "scrollbarSlider.activeBackground": "#191919",
+    "scrollbarSlider.background": "#63636369",
+    "scrollbarSlider.hoverBackground": "#63636369",
+    "scrollbarSlider.activeBackground": "#63636369",
     "progressBar.background": "#35ad8d",
     "widget.shadow": "#00000054",
     "editorWidget.foreground": "#888888",
@@ -2089,6 +2088,7 @@
     "dropdown.foreground": "#cccccc",
     "dropdown.border": "#00000000",
     "minimapGutter.addedBackground": "#14ba0f",
+    "editorOverviewRuler.background": "#000000",
     "minimapGutter.modifiedBackground": "#005cad",
     "minimapGutter.deletedBackground": "#c41f26",
     "minimap.findMatchHighlight": "#0040ff52",
