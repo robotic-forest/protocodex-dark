@@ -1,8 +1,7 @@
 {
     "name": "protocodex-dark",
     "displayName": "Protocodex Dark",
-    "version": "0.0.2",
-    "license": "(MIT OR Apache-2.0)",
+    "version": "0.0.3",
     "description": "",
     "publisher": "protocodex",
     "repository": {
