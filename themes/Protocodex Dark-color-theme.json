@@ -545,7 +545,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#ff6daa"
+        "foreground": "#ff9ecf"
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#ff4ae3"
+        "foreground": "#00b7ff"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#00ff70"
+        "foreground": "#78da7d"
       }
     },
     {
@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#ff4ae3"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#40fdda"
       }
     },
@@ -1790,7 +1790,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "",
-        "foreground": "#ffffff"
+        "foreground": "#ffffff9d"
       }
     },
     {
